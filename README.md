@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Kayla 👋
+
+#### 💅 About Me
+I'm a **Full Stack Developer**, accessibility nerd and overall tech enthusiast. I came for the tech, and fell in love with creative problem solving.
+
+#### 📫 Get in Touch
+* [LinkedIn](https://www.linkedin.com/in/kayla-bonneteau/)
+* [✉️ Email](mailto:kbonneteau@gmail.com)
+
+#### 🔭 Work In Progress
+* [Audiophile e-commerce application](https://github.com/kbonneteau/audiophile-ecommerce)
 
 <!--
 **kbonneteau/kbonneteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
