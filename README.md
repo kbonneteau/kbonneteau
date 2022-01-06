@@ -8,12 +8,12 @@ I'm a **Full Stack Developer**, accessibility nerd and overall tech enthusiast. 
 * [✉️ Email](mailto:kbonneteau@gmail.com)
 
 #### Tech Tools
-JavaScript
-React & Redux
-Node
-Express
-MySQL/PostgreSQL
-MongoDB
+* JavaScript
+* React & Redux
+* Node
+* Express
+* MySQL/PostgreSQL
+* MongoDB
 
 #### 🔭 Work In Progress
 * [Audiophile e-commerce application](https://github.com/kbonneteau/audiophile-ecommerce)
