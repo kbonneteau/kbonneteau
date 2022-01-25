@@ -10,6 +10,7 @@ I'm a **Full Stack Developer**, accessibility nerd and overall tech enthusiast. 
 #### Tech Tools
 * JavaScript
 * React & Redux
+* PHP
 * Node
 * Express
 * MySQL/PostgreSQL
